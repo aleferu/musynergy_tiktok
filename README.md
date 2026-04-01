@@ -21,4 +21,4 @@ A .env file is needed in order to configure the database connection. An example 
 
 ## Dataset
 
-`schema.md` is dedicated to explain our dataset. With these two files you can learn about the root graph schema and check out some graphs and statistics.
+`schema.md` is dedicated to explain our dataset.
