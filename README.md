@@ -1,6 +1,6 @@
-# TikTok's improvements for MUSYNERGY
+# Music recommendations using GNNs and TikTok social data
 
-This repository only contains the needed code to improve MUSYNERGY with TikTok's data.
+This repository only contains the needed code to improve music recommendations using GNNs and TikTok social data.
 
 MUSYNERGY repo: https://github.com/aleferu/musicbrainz
 
